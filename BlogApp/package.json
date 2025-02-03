@@ -13,6 +13,7 @@
     "@reduxjs/toolkit": "^2.5.1",
     "@tinymce/tinymce-react": "^5.1.1",
     "appwrite": "^17.0.0",
+    "blogapp": "file:",
     "html-react-parser": "^5.2.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
