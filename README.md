@@ -17,5 +17,5 @@ npm install
 ```
 npm run dev
 ```
-# Setup for Environment varibales of Appwrite
+# Setup for Environment variables of Appwrite
 **To be added later ⏳**
