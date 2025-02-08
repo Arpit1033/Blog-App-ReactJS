@@ -23,3 +23,5 @@ Before running the project, set up environment variables:
 1. **Create a `.env` file** in the project root.
 2. **Copy the contents** of `.env.sample` into `.env`.
 3. **Fill in the required values** from your Appwrite dashboard.
+
+For adding the credentials for Appwrite, please refer to the [official Appwrite documentation](https://appwrite.io/docs). 
