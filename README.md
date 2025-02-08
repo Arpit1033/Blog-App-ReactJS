@@ -18,4 +18,8 @@ npm install
 npm run dev
 ```
 # Setup for Environment variables of Appwrite
-**To be added later ⏳**
+Before running the project, set up environment variables:
+
+1. **Create a `.env` file** in the project root.
+2. **Copy the contents** of `.env.sample` into `.env`.
+3. **Fill in the required values** from your Appwrite dashboard.
