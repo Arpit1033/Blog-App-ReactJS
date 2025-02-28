@@ -6,6 +6,7 @@
 ## Table of Contents
 
 - [Features](#features)
+- [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Environment Setup](#environment-setup)
 - [Getting Started](#getting-started)
@@ -19,6 +20,13 @@
 - **Real-Time Updates:** Experience seamless, live content updates.
 - **User-Friendly Experience:** Simplified sign-up, content creation, and content management.
 - **Deploy-Ready:** Hosted on Vercel for effortless deployment and optimal performance.
+
+## Tech Stack
+- **Frontend:** ReactJS, Vite
+- **Backend:** Appwrite
+- **Deployment:** Vercel
+- **Forms Handling:** React Hook Form
+- **Rich Text Editor:** TinyMCE
 
 ## Installation
 Follow these steps to set up ScribeSphere on your local machine:
@@ -65,6 +73,8 @@ Then, open your browser and navigate to http://localhost:3000 (or your designate
 - **ReactJS Documentation:** [ReactJS Docs](https://reactjs.org/)
 - **Appwrite Documentation:** [Appwrite Docs](https://appwrite.io/docs)
 - **Vercel Platform:** [Vercel Docs](https://vercel.com/docs)
+- **React Hook Form:** [React Hook Form Docs](https://react-hook-form.com/docs)
+- **TinyMCE:** [TinyMCE Docs](https://www.tiny.cloud/docs/tinymce/latest/)
 
 ## Contributing
 Contributions are welcome! To help improve ScribeSphere:
